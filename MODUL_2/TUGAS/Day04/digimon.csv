@@ -1,0 +1,342 @@
+#,pic,Digimon,Stage,Attribute,Memory,Equip Slots,HP,SP,ATK,DEF,INT,SPD
+1,,Kuramon,Baby,Neutral,2,0,590,77,79,69,68,95
+2,,Pabumon,Baby,Neutral,2,0,950,62,76,76,69,68
+3,,Punimon,Baby,Neutral,2,0,870,50,97,87,50,75
+4,,Botamon,Baby,Neutral,2,0,690,68,77,95,76,61
+5,,Poyomon,Baby,Neutral,2,0,540,98,54,59,95,86
+6,,Arcadiamon In-Tr.,In-Training,Dark,3,0,720,85,86,59,81,93
+7,,Koromon,In-Training,Fire,3,0,940,52,109,93,52,76
+8,,Tanemon,In-Training,Plant,3,0,1030,64,85,82,73,69
+9,,Tsunomon,In-Training,Earth,3,0,930,54,107,92,54,76
+10,,Tsumemon,In-Training,Dark,3,0,930,64,108,64,54,93
+11,,Tokomon,In-Training,Neutral,3,0,640,86,76,74,74,103
+12,,Nyaromon,In-Training,Light,3,0,540,107,54,64,103,94
+13,,Pagumon,In-Training,Dark,3,0,550,103,60,63,102,93
+14,,Yokomon,In-Training,Plant,3,0,1040,64,82,82,75,69
+15,,Bukamon,In-Training,Water,3,0,830,93,54,74,103,69
+16,,Motimon,In-Training,Neutral,3,0,1030,63,82,81,78,69
+17,,Wanyamon,In-Training,Wind,3,0,830,82,79,75,75,82
+18,,Agumon,Rookie,Fire,5,1,1030,59,131,103,54,86
+19,,Agumon (Blk),Rookie,Fire,5,1,1020,56,124,108,56,85
+20,,Arcadiamon Rookie,Rookie,Dark,5,1,950,86,105,79,85,86
+21,,Armadillomon,Rookie,Earth,4,1,1160,85,67,111,65,72
+22,,Impmon,Rookie,Dark,5,1,530,114,83,65,114,102
+23,,Elecmon,Rookie,Electric,4,1,930,93,82,79,79,90
+24,,Otamamon,Rookie,Water,4,1,930,105,52,75,113,78
+25,,Gaomon,Rookie,Neutral,5,1,1030,69,118,74,66,101
+26,,Gazimon,Rookie,Dark,4,1,970,71,123,64,59,102
+27,,Gabumon,Rookie,Fire,5,1,980,88,94,81,79,91
+28,,Gabumon (Blk),Rookie,Fire,5,1,950,83,99,89,74,91
+29,,Guilmon,Rookie,Fire,5,1,1050,69,133,74,54,101
+30,,Kudamon,Rookie,Light,5,1,590,128,53,74,117,105
+31,,Keramon,Rookie,Dark,5,1,1030,74,123,69,61,101
+32,,Gotsumon,Rookie,Earth,5,1,790,79,93,118,90,72
+33,,Goblimon,Rookie,Earth,4,1,1050,51,115,110,51,84
+34,,Gomamon,Rookie,Water,5,1,1160,69,93,93,81,79
+35,,Syakomon,Rookie,Water,4,1,870,100,53,86,112,78
+36,,Zubamon,Rookie,Neutral,5,1,1010,57,126,111,54,87
+37,,Solarmon,Rookie,Light,4,1,1030,88,69,108,71,77
+38,,Chuumon,Rookie,Earth,4,1,700,91,87,73,85,111
+39,,Terriermon,Rookie,Wind,4,1,690,93,84,75,84,112
+40,,Tentomon,Rookie,Plant,4,1,750,79,86,110,93,73
+41,,ToyAgumon,Rookie,Neutral,4,1,1110,87,72,112,63,71
+42,,Dracmon,Rookie,Dark,5,1,870,81,108,88,83,84
+43,,Dracomon,Rookie,Fire,5,1,980,69,132,89,49,99
+44,,Dorumon,Rookie,Neutral,5,1,1020,65,128,79,56,101
+45,,Hagurumon,Rookie,Electric,4,1,1090,91,66,110,69,71
+46,,Patamon,Rookie,Wind,4,1,880,93,79,74,92,90
+47,,Hackmon,Rookie,Fire,5,1,1030,59,118,108,63,85
+48,,Palmon,Rookie,Plant,5,1,1140,65,103,90,80,79
+49,,DemiDevimon,Rookie,Dark,4,1,650,87,89,76,89,111
+50,,Biyomon,Rookie,Wind,4,1,830,93,85,79,85,91
+51,,Falcomon,Rookie,Wind,5,1,740,93,94,79,79,113
+52,,FanBeemon,Rookie,Plant,4,1,860,69,104,86,73,98
+53,,Veemon,Rookie,Neutral,5,1,1040,74,130,74,53,101
+54,,Salamon,Rookie,Light,4,1,540,118,59,69,119,97
+55,,Betamon,Rookie,Water,4,1,870,101,61,76,113,78
+56,,Hawkmon,Rookie,Wind,5,1,690,88,99,79,83,114
+57,,Mushroomon,Rookie,Plant,4,1,1110,64,96,88,79,78
+58,,Monodramon,Rookie,Neutral,4,1,1040,54,128,100,51,79
+59,,Lalamon,Rookie,Plant,4,1,1100,74,87,87,79,79
+60,,Lucemon,Rookie,Light,14,1,1230,148,59,104,208,119
+61,,Lunamon,Rookie,Water,5,1,890,94,89,76,101,82
+62,,Renamon,Rookie,Plant,5,1,930,93,89,74,89,93
+63,,Lopmon,Rookie,Earth,4,1,790,79,103,68,103,85
+64,,Wormmon,Rookie,Plant,4,1,760,76,92,111,90,71
+65,,IceDevimon,Champion,Water,8,1,990,94,140,89,118,92
+66,,Icemon,Champion,Water,6,2,940,87,108,132,106,84
+67,,Aquilamon,Champion,Wind,8,1,840,108,109,89,89,143
+68,,Agunimon,Champion,Fire,8,1,1130,88,134,93,84,119
+69,,Arcadiamon Champion,Champion,Dark,8,1,1130,98,139,84,89,108
+70,,Ankylomon,Champion,Earth,6,2,1330,98,89,133,79,79
+71,,Ikkakumon,Champion,Water,8,1,1330,84,118,102,94,90
+72,,Wizardmon,Champion,Dark,8,1,690,138,74,79,143,118
+73,,Lobomon,Champion,Light,8,1,1180,79,143,95,69,117
+74,,Woodmon,Champion,Plant,6,2,1480,74,109,103,89,88
+75,,Airdramon,Champion,Wind,6,2,1040,77,126,100,86,118
+76,,ExVeemon,Champion,Neutral,8,1,1030,118,104,94,94,118
+77,,Angemon,Champion,Light,8,1,940,94,128,89,128,99
+78,,Ogremon,Champion,Earth,8,1,1230,64,155,118,64,97
+79,,Guardromon,Champion,Electric,6,2,990,84,108,138,103,79
+80,,Guardromon (Gold),Champion,Electric,6,2,1130,83,99,168,96,62
+81,,GaoGamon,Champion,Wind,8,1,740,108,109,94,99,138
+82,,Kabuterimon,Champion,Plant,6,2,890,89,108,128,116,81
+83,,ShellNumemon,Champion,Water,6,2,1280,103,79,148,74,79
+84,,Gargomon,Champion,Electric,6,2,1030,103,109,99,89,108
+85,,Garurumon,Champion,Fire,8,1,890,108,99,94,94,138
+86,,Garurumon (Blk),Champion,Fire,8,1,890,108,109,104,79,133
+87,,Kyubimon,Champion,Fire,8,1,740,138,59,84,138,128
+88,,Growlmon,Champion,Fire,8,1,1180,79,143,113,69,109
+89,,Kurisarimon,Champion,Dark,8,1,1280,84,153,79,64,113
+90,,Greymon,Champion,Fire,8,1,1230,74,148,118,64,104
+91,,Greymon (Blue),Champion,Fire,8,1,1280,74,153,118,59,99
+92,,Clockmon,Champion,Electric,6,2,1030,118,64,101,133,92
+93,,Kuwagamon,Champion,Plant,6,2,1180,69,153,113,59,99
+94,,Gekomon,Champion,Water,6,2,1130,123,68,89,128,90
+95,,Geremon,Champion,Electric,6,2,1380,99,104,128,64,78
+96,,Coredramon (Blue),Champion,Wind,8,1,1230,76,151,103,69,109
+97,,Coredramon (Green),Champion,Earth,8,1,1230,74,151,99,61,123
+98,,GoldNumemon,Champion,Light,6,2,1130,124,59,84,143,88
+99,,Golemon,Champion,Earth,6,2,1430,79,121,132,62,74
+100,,Cyclonemon,Champion,Earth,6,2,940,84,131,128,93,81
+101,,Sangloupmon,Champion,Dark,6,2,1180,85,123,91,90,104
+102,,Sunflowmon,Champion,Plant,6,2,1180,113,64,89,141,86
+103,,Seadramon,Champion,Water,6,2,1080,118,64,99,134,88
+104,,Coelamon,Champion,Water,6,2,1290,79,113,105,90,96
+105,,GeoGreymon,Champion,Fire,8,1,1330,89,143,84,64,118
+106,,Sukamon,Champion,Earth,6,2,1430,98,89,133,69,79
+107,,Starmon,Champion,Neutral,6,2,1080,98,104,109,91,101
+108,,Stingmon,Champion,Plant,8,1,1130,84,143,74,74,133
+109,,Strikedramon,Champion,Earth,6,2,1150,72,151,87,68,118
+110,,Zubaeagermon,Champion,Neutral,8,1,1160,67,148,126,63,111
+111,,Socerimon,Champion,Water,8,1,1030,123,64,93,148,90
+112,,Tankmon,Champion,Electric,6,2,940,84,113,141,98,81
+113,,MudFrigimon,Champion,Earth,6,2,1190,96,101,99,97,99
+114,,Tyrannomon,Champion,Fire,6,2,1230,59,148,125,59,97
+115,,Gatomon,Champion,Light,8,1,640,143,69,79,143,123
+116,,Devimon,Champion,Dark,8,1,990,94,133,84,125,97
+117,,Turuiemon,Champion,Earth,6,2,1140,78,130,91,78,120
+118,,Togemon,Champion,Plant,8,1,1330,84,108,113,93,90
+119,,Dorugamon,Champion,Earth,8,1,1180,84,138,89,69,123
+120,,Nanimon,Champion,Earth,6,2,1070,84,108,133,98,81
+121,,Numemon,Champion,Earth,6,2,1380,99,84,138,69,83
+122,,Birdramon,Champion,Fire,8,1,940,113,94,84,109,128
+123,,BaoHuckmon,Champion,Fire,8,1,990,96,116,117,90,113
+124,,Bakemon,Champion,Dark,6,2,590,148,64,74,138,128
+125,,Veedramon,Champion,Wind,8,1,1180,84,138,113,64,114
+126,,Hudiemon,Champion,Plant,8,1,980,111,109,85,113,115
+127,,PlatinumSukamon,Champion,Neutral,6,2,450,98,84,999,50,103
+128,,BlackGatomon,Champion,Dark,8,1,690,133,84,84,133,118
+129,,Vegiemon,Champion,Plant,6,2,1380,79,113,106,87,88
+130,,Peckmon,Champion,Wind,8,1,790,113,104,84,94,148
+131,,Meramon,Champion,Fire,6,2,1130,69,138,113,79,99
+132,,Monochromon,Champion,Earth,6,2,1030,76,135,128,77,92
+133,,Frigimon,Champion,Water,6,2,1380,83,103,98,99,90
+134,,Unimon,Champion,Wind,6,2,790,123,84,79,128,118
+135,,Raptordramon,Champion,Neutral,6,2,1130,83,131,101,83,100
+136,,Raremon,Champion,Earth,6,2,1330,83,105,100,88,103
+137,,Leomon,Champion,Earth,8,1,1180,69,143,123,71,97
+138,,Lekismon,Champion,Water,6,2,790,113,94,84,99,143
+139,,Reppamon,Champion,Light,8,1,790,118,94,99,99,143
+140,,Waspmon,Champion,Electric,6,2,1180,74,133,99,74,113
+141,,MegaKabuterimon,Ultimate,Plant,12,2,1430,115,94,163,109,92
+142,,Arcadiamon Ultimate,Ultimate,Dark,14,3,1130,120,157,99,119,138
+143,,Antylamon,Ultimate,Neutral,12,3,940,123,124,109,114,168
+144,,Andromon,Ultimate,Electric,12,3,1040,94,133,157,133,95
+145,,Meteormon,Ultimate,Earth,12,3,1090,104,123,163,128,89
+146,,Infermon,Ultimate,Dark,14,3,1330,99,198,89,74,153
+147,,Myotismon,Ultimate,Dark,14,3,1290,113,148,99,148,110
+148,,Wingdramon,Ultimate,Wind,14,3,1380,89,163,109,89,158
+149,,BurningGreymon,Ultimate,Fire,14,3,1260,98,169,131,95,128
+150,,AeroVeedramon,Ultimate,Wind,14,1,1430,94,163,99,94,153
+151,,Etemon,Ultimate,Dark,12,3,1130,133,104,119,129,133
+152,,Angewomon,Ultimate,Light,14,3,890,163,69,94,188,143
+153,,Okuwamon,Ultimate,Plant,12,3,1330,74,158,158,74,119
+154,,Garudamon,Ultimate,Fire,12,3,1040,123,124,109,129,143
+155,,KendoGarurumon,Ultimate,Light,14,2,1410,105,144,128,104,124
+156,,Gigadramon,Ultimate,Wind,12,3,1240,94,137,148,113,100
+157,,CatchMamemon,Ultimate,Electric,10,3,1420,109,123,134,95,104
+158,,CannonBeemon,Ultimate,Electric,12,3,990,123,129,139,99,143
+159,,Groundramon,Ultimate,Earth,14,3,1430,84,198,143,74,104
+160,,GrapLeomon,Ultimate,Electric,12,3,1580,89,163,99,79,143
+161,,Grademon,Ultimate,Neutral,12,3,1290,97,173,89,100,144
+162,,Crescemon,Ultimate,Water,12,3,1180,133,124,103,139,114
+163,,Cyberdramon,Ultimate,Dark,14,2,1480,81,173,143,79,122
+164,,Shakkoumon,Ultimate,Light,14,3,1530,135,84,158,139,92
+165,,Cherrymon,Ultimate,Plant,12,3,1630,108,113,133,114,100
+166,,Silphymon,Ultimate,Wind,14,3,1040,138,119,119,124,158
+167,,SuperStarmon,Ultimate,Light,12,3,1180,128,122,134,109,120
+168,,SkullGreymon,Ultimate,Dark,14,3,1230,79,203,153,69,119
+169,,SkullSatamon,Ultimate,Dark,12,3,1210,103,141,101,132,118
+170,,Zudomon,Ultimate,Water,12,2,1630,84,150,128,104,102
+171,,SaviorHuckmon,Ultimate,Fire,14,3,1380,94,163,128,79,144
+172,,Taomon,Ultimate,Dark,12,3,990,148,69,104,173,138
+173,,Dragomon,Ultimate,Water,12,3,1280,115,126,111,137,99
+174,,Chirinmon,Ultimate,Light,14,3,940,133,124,119,124,168
+175,,Dinobeemon,Ultimate,Plant,14,3,1330,94,193,124,84,133
+176,,Digitamamon,Ultimate,Neutral,12,3,1380,89,128,148,111,102
+177,,SkullMeramon,Ultimate,Fire,12,3,1530,79,183,133,70,113
+178,,Duramon,Ultimate,Neutral,14,3,1460,81,175,146,79,119
+179,,ShogunGekomon,Ultimate,Water,12,3,1980,96,113,113,99,97
+180,,Triceramon,Ultimate,Earth,12,3,1180,89,148,168,94,99
+181,,DoruGreymon,Ultimate,Fire,14,3,1480,84,161,153,84,116
+182,,Knightmon,Ultimate,Neutral,12,3,1140,109,135,158,123,92
+183,,Datamon,Ultimate,Electric,12,3,1180,133,74,114,175,102
+184,,Paildramon,Ultimate,Neutral,14,3,1280,133,139,124,109,128
+185,,Panjyamon,Ultimate,Water,12,3,1280,128,124,114,111,126
+186,,Pandamon,Ultimate,Earth,12,3,1090,104,135,153,118,97
+187,,Pumpkinmon,Ultimate,Earth,10,3,1480,97,123,108,119,111
+188,,Piximon,Ultimate,Light,12,3,990,123,104,104,134,153
+189,,HippoGryphonmon,Ultimate,Wind,12,3,990,138,107,82,143,148
+190,,Phantomon,Ultimate,Dark,12,3,940,123,99,99,163,138
+191,,BlackKingNumemon,Ultimate,Dark,10,3,1580,113,89,168,89,89
+192,,BlueMeramon,Ultimate,Fire,12,3,1140,109,148,94,133,119
+193,,Vademon,Ultimate,Dark,10,3,1130,165,64,94,173,97
+194,,Whamon,Ultimate,Water,12,2,1680,93,123,123,124,100
+195,,MagnaAngemon,Ultimate,Light,14,3,1180,143,98,119,163,105
+196,,Volcanomon,Ultimate,Fire,12,3,1530,82,158,119,69,125
+197,,Matadormon,Ultimate,Dark,12,3,1480,94,148,93,104,144
+198,,MachGaogamon,Ultimate,Wind,12,3,1480,89,158,89,89,158
+199,,Mamemon,Ultimate,Earth,10,3,1480,113,111,153,84,97
+200,,MegaSeadramon,Ultimate,Water,12,3,1330,138,86,114,158,102
+201,,Megadramon,Ultimate,Wind,12,3,1430,79,158,148,69,119
+202,,WarGrowlmon,Ultimate,Fire,14,3,1430,84,178,138,87,116
+203,,MetalGreymon,Ultimate,Fire,14,2,1530,84,168,148,80,113
+204,,MetalGreymon (Blue),Ultimate,Fire,14,2,1670,84,173,143,69,110
+205,,MetalTyrannomon,Ultimate,Electric,12,3,1090,104,130,178,118,92
+206,,MetalMamemon,Ultimate,Electric,10,3,1040,99,123,153,128,103
+207,,Monzaemon,Ultimate,Neutral,12,2,1580,93,128,118,119,100
+208,,Crowmon,Ultimate,Wind,12,3,890,128,119,104,119,173
+209,,RizeGreymon,Ultimate,Fire,14,3,1530,94,178,109,69,143
+210,,Lilamon,Ultimate,Plant,12,3,1280,148,69,104,168,114
+211,,Rapidmon,Ultimate,Electric,12,3,1180,113,114,109,119,143
+212,,Lillymon,Ultimate,Plant,12,3,890,153,74,94,163,158
+213,,Lucemon FM,Ultimate,Neutral,22,2,1390,139,163,114,203,139
+214,,LadyDevimon,Ultimate,Dark,14,3,890,163,99,94,158,143
+215,,WereGarurumon,Ultimate,Earth,12,3,1430,89,178,89,79,153
+216,,WereGarurumon (Blk),Ultimate,Earth,12,3,1480,79,183,104,69,148
+217,,Wisemon,Ultimate,Dark,12,3,790,168,69,84,198,133
+218,,Arcadiamon Mega,Mega,Dark,20,2,1410,153,196,109,119,163
+219,,Alphamon,Mega,Neutral,22,1,1390,128,158,183,158,130
+220,,UlforceVeedramon,Mega,Wind,22,1,1680,129,188,109,104,198
+221,,Ebemon,Mega,Electric,16,3,1230,178,74,114,198,129
+222,,Imperialdramon DM,Mega,Fire,20,2,1730,143,139,139,139,148
+223,,Imperialdramon FM,Mega,Neutral,20,2,1780,114,198,124,114,153
+224,,Vikemon,Mega,Water,18,3,1780,105,158,143,129,133
+225,,Valkyrimon,Mega,Wind,18,3,1330,139,148,129,129,168
+226,,Varodurumon,Mega,Light,20,2,1580,164,103,94,189,173
+227,,VenomMyotismon,Mega,Dark,20,3,1540,120,193,104,148,138
+228,,WarGreymon,Mega,Fire,20,2,1630,98,193,163,99,140
+229,,Ophanimon,Mega,Light,20,2,840,183,104,164,193,153
+230,,Gaiomon,Mega,Fire,18,3,1630,99,203,129,94,158
+231,,KaiserGreymon,Mega,Fire,20,2,1640,99,206,151,123,139
+232,,ChaosGallantmon,Mega,Dark,22,1,1340,139,178,139,163,144
+233,,Chaosdramon,Mega,Electric,20,2,1630,99,203,173,109,134
+234,,Gankoomon,Mega,Fire,22,2,2080,90,188,163,109,138
+235,,KingEtemon,Mega,Earth,18,3,1290,114,164,163,131,125
+236,,Kuzuhamon,Mega,Dark,18,3,1380,163,84,129,193,139
+237,,GranKuwagamon,Mega,Plant,18,3,1530,88,178,178,89,140
+238,,GranDracmon,Mega,Dark,20,2,1340,140,174,114,169,151
+239,,GroundLocomon,Mega,Electric,18,3,1140,114,144,213,133,128
+240,,Gryphonmon,Mega,Wind,18,3,1260,129,164,104,130,173
+241,,Craniamon,Mega,Earth,22,1,1630,143,124,208,134,124
+242,,Kerpymon (Blk),Mega,Dark,20,3,1290,188,94,94,223,153
+243,,Kerpymon (Good),Mega,Light,20,2,1290,188,94,104,208,158
+244,,Goldramon,Mega,Light,20,2,1680,99,193,149,134,138
+245,,SaberLeomon,Mega,Wind,18,3,1680,99,228,104,84,163
+246,,Sakuyamon,Mega,Light,18,3,990,178,94,114,188,173
+247,,Jesmon,Mega,Neutral,22,2,1480,119,198,149,114,168
+248,,ShineGreymon,Mega,Light,20,2,1880,114,203,109,84,158
+249,,ShineGreymon BM,Mega,Fire,22,2,1980,114,228,104,84,168
+250,,Justimon,Mega,Light,18,3,1530,99,193,158,99,144
+251,,Kentaurosmon,Mega,Light,22,1,1140,153,139,154,154,183
+252,,Slayerdramon,Mega,Wind,20,2,1530,148,169,129,129,153
+253,,Seraphimon,Mega,Light,20,2,1480,162,94,144,198,135
+254,,MegaGargomon,Mega,Electric,18,3,1430,132,149,139,119,144
+255,,Darkdramon,Mega,Electric,18,3,1580,94,188,148,99,139
+256,,TigerVespamon,Mega,Electric,18,3,1630,104,193,114,99,173
+257,,Titamon,Mega,Earth,18,3,1930,99,183,128,114,129
+258,,TyrantKabuterimon,Mega,Plant,20,2,1530,108,174,164,123,159
+259,,Dianamon,Mega,Water,20,3,790,178,89,154,198,183
+260,,Diaboromon,Mega,Dark,20,2,1680,114,243,104,79,173
+261,,Creepymon,Mega,Dark,22,2,1440,133,183,114,183,140
+262,,Gallantmon,Mega,Light,22,1,1480,148,149,154,149,148
+263,,Dynasmon,Mega,Wind,22,2,1680,114,213,129,94,178
+264,,Durandamon,Mega,Neutral,20,2,1660,92,193,175,95,135
+265,,Leopardmon,Mega,Light,22,3,990,188,124,114,183,188
+266,,Leopardmon LM,Mega,Earth,25,3,1290,153,159,129,139,218
+267,,Dorugoramon,Mega,Dark,18,2,1640,91,225,134,88,145
+268,,Neptunemon,Mega,Water,20,2,1440,137,158,130,173,139
+269,,HiAndromon,Mega,Electric,18,3,1190,114,153,178,138,124
+270,,PileVolcamon,Mega,Fire,18,2,1330,109,173,163,111,137
+271,,Barbamon,Mega,Dark,22,2,1330,184,84,129,233,133
+272,,BanchoLeomon,Mega,Earth,18,3,1630,84,193,188,80,138
+273,,Piedmon,Mega,Dark,18,3,890,178,129,104,183,163
+274,,Puppetmon,Mega,Plant,18,3,1140,114,163,163,148,124
+275,,PlatinumNumemon,Mega,Neutral,16,3,450,132,99,999,50,144
+276,,BlackWarGreymon,Mega,Fire,20,2,1730,93,183,178,89,140
+277,,PrinceMamemon,Mega,Neutral,16,3,1630,137,104,173,109,130
+278,,Breakdramon,Mega,Earth,20,2,1880,89,213,168,94,129
+279,,Plesiomon,Mega,Water,18,3,1680,153,74,114,188,129
+280,,HerculesKabuterimon,Mega,Plant,18,3,1680,128,114,168,124,124
+281,,Beelzemon,Mega,Dark,22,1,1680,114,228,119,99,168
+282,,Beelzemon BM,Mega,Dark,25,2,1680,114,238,124,104,178
+283,,Belphemon SM,Mega,Dark,22,1,1730,178,89,114,203,139
+284,,Hououmon,Mega,Fire,18,3,1390,173,84,99,193,158
+285,,Magnadramon,Mega,Light,20,2,1880,168,89,124,183,129
+286,,Boltmon,Mega,Electric,18,3,1580,83,198,163,84,140
+287,,MagnaGarurumon,Mega,Light,18,3,1480,122,175,104,114,183
+288,,MagnaGarurumon (SV),Mega,Light,18,3,1020,138,163,107,119,218
+289,,Mastemon,Mega,Neutral,22,1,1340,144,173,134,173,149
+290,,MarineAngemon,Mega,Water,18,3,1190,198,64,89,203,153
+291,,Minervamon,Mega,Neutral,20,3,1580,114,208,114,119,168
+292,,MirageGaogamon,Mega,Wind,18,3,1480,114,183,114,109,178
+293,,MirageGaogamon BM,Mega,Light,20,3,1440,124,178,104,158,174
+294,,Machinedramon,Mega,Electric,18,3,1240,114,173,183,128,124
+295,,Megidramon,Mega,Fire,20,2,1690,120,199,132,109,153
+296,,MetalEtemon,Mega,Earth,18,3,1630,128,134,188,89,124
+297,,MetalGarurumon,Mega,Water,18,3,1140,143,154,129,129,178
+298,,MetalGarurumon (Blk),Mega,Electric,18,3,1190,128,163,173,133,130
+299,,MetalSeadramon,Mega,Water,18,3,1430,148,99,139,168,129
+300,,Merukimon,Mega,Wind,20,2,1320,115,178,138,141,177
+301,,RustTyranomon,Mega,Electric,18,3,1680,83,218,163,74,140
+302,,Leviamon,Mega,Water,22,1,1730,120,168,158,144,133
+303,,Lilithmon,Mega,Dark,22,2,940,203,99,104,223,173
+304,,Ravemon,Mega,Wind,18,3,1040,143,139,119,139,203
+305,,Ravemon BM,Mega,Wind,20,2,1040,133,149,139,144,213
+306,,Crusadermon,Mega,Dark,22,2,1240,153,144,139,144,193
+307,,Rosemon,Mega,Plant,18,3,1330,147,144,129,149,144
+308,,Rosemon BM,Mega,Plant,20,3,1480,143,149,139,159,143
+309,,Lotosmon,Mega,Plant,18,3,940,188,74,109,213,168
+310,,Armageddemon,Ultra,Dark,25,1,1760,114,255,133,84,164
+311,,Arcadiamon Ultra,Ultra,Dark,25,2,1510,158,204,109,134,170
+312,,Alphamon Ouryuken,Ultra,Neutral,25,1,1530,133,179,149,159,153
+313,,Imperialdramon PM,Ultra,Light,25,2,1530,158,154,154,154,153
+314,,Examon,Ultra,Wind,25,2,1730,148,179,139,134,153
+315,,Omnimon,Ultra,Light,25,2,1680,104,208,168,134,144
+316,,Omnimon Zwart,Ultra,Dark,25,2,1490,139,153,193,158,134
+317,,Chaosmon,Ultra,Neutral,25,3,1080,129,318,94,89,188
+318,,Chaosmon VA,Ultra,Light,25,3,790,138,254,84,204,168
+319,,Susanomon,Ultra,Light,25,1,1630,129,183,158,149,149
+320,,Gallantmon CM,Ultra,Light,25,2,1480,139,203,124,139,173
+321,,Belphemon RM,Ultra,Dark,25,2,1780,84,247,168,109,140
+322,,Lucemon SM,Ultra,Dark,25,2,1490,173,89,124,233,158
+323,,Flamedramon,Armor,Fire,8,3,1130,93,119,99,89,138
+324,,Magnamon,Armor,Earth,22,2,1240,124,168,208,148,124
+325,,Rapidmon (Armor),Armor,Light,18,3,1140,114,158,178,158,124
+326,,Shoutmon,None,Fire,5,1,1030,62,128,101,55,87
+327,,OmniShoutmon,None,Fire,20,2,1510,141,166,144,114,165
+328,,Ryudamon,Rookie,Neutral,5,1,790,73,123,97,57,102
+329,,Ginryumon,Champion,Neutral,8,1,970,86,135,114,71,118
+330,,Hisyaryumon,Ultimate,Neutral,14,1,1200,89,183,157,74,123
+331,,Ouryumon,Mega,Neutral,20,2,1350,104,221,179,84,158
+332,,Apocalymon,Ultra,Neutral,25,1,1890,173,89,104,183,188
+333,,Sistermon Blanc,Rookie,Light,4,1,880,105,53,72,116,82
+334,,Sistermon B (Awake.),Rookie,Light,18,2,1310,175,72,112,191,165
+335,,Sistermon Ciel,Champion,Light,6,2,840,111,96,87,95,139
+336,,Sistermon C (Awake.),Champion,Light,18,2,1550,114,188,102,114,173
+337,,Alphamon NX,Mega,Neutral,6,1,980,104,109,114,109,116
+338,,Crusadermon NX,Mega,Dark,6,1,1030,100,118,99,109,121
+339,,Leopardmon NX,Mega,Light,6,1,960,109,112,91,116,126
+340,,Omnimon NX,Mega,Light,6,1,1010,98,116,111,111,113
+341,,Gallantmon NX,Mega,Light,6,1,1070,93,122,109,111,108
